@@ -1,0 +1,108 @@
+Briefing para Criação de Site — Lucerna Palhano | Psicologia & Psicanálise
+(Elaborado com base no posicionamento da perfil @psilucernapalhano)
+
+Dados Iniciais & Serviços
+Qual é o seu nome e o nome da sua empresa para incluirmos no site?
+
+Lucerna Palhano — Lucerna Palhano | Psicologia Clínica & Psicanálise
+
+Quais produtos ou serviços sua empresa oferece?
+
+Psicoterapia individual/Psicanálise para adultos, jovens e idosos (modalidades presencial e online), escuta analítica sobre questões como depressão, ansiedade, traumas, luto, angústia, desafios nos relacionamentos interpessoais, busca por sentido e fortalecimento da subjetividade.
+
+Objetivo & Estrutura
+Objetivo do Site
+
+Criar um espaço digital com estética refinada, humana e acolhedora que reflita a profundidade do trabalho analítico, posicionando Lucerna Palhano como referência em psicoterapia e facilitando o agendamento de consultas (presenciais e online) diretamente pelo WhatsApp.
+
+Seções do Site
+
+Home, Sobre Mim / Trajetória, A Prática Psicanalítica (Como Funciona a Terapia), Modalidades de Atendimento (Online e Presencial), Principais Demandas Atendidas, Dúvidas Frequentes (FAQ) e Contato.
+
+Conteúdo & Identidade
+Você tem textos prontos ou descrições sobre seus produtos/serviços?
+
+Uma Escuta Singular: Um ambiente clínico pautado pela ética, sigilo e escuta atenta, onde cada história é acolhida na sua singularidade, sem fórmulas prontas ou julgamentos.
+
+A Experiência Analítica: O processo terapêutico como um convite para olhar para os sentimentos inconscientes, ressignificar dores e construir novas formas de se posicionar diante da própria vida.
+
+Atendimento Online sem Fronteiras: Aconchego e profundidade técnica disponíveis por videochamada, permitindo que o processo analítico aconteça no conforto e na privacidade da sua casa.
+
+Descrição sobre a empresa
+
+Acredito no poder da palavra e da escuta ética como caminhos para a transformação do sofrimento psíquico. Meu trabalho é oferecer um espaço seguro e estruturado para que você possa falar, elaborar suas questões mais profundas e reencontrar o equilíbrio emocional.
+
+Você tem um slogan ou frase de impacto que gostaria de usar no site?
+
+"Um espaço de escuta e acolhimento para ressignificar sua história e encontrar novos caminhos."
+
+Políticas de Privacidade, trocas ou devoluções
+
+Atendimento em conformidade integral com as normas do Conselho Federal de Psicologia (CFP), o Código de Ética Profissional e a LGPD. Política de remarcação e cancelamento mediante comunicação prévia de 24h.
+
+Quais páginas o site precisa ter?
+
+Página Inicial (Home)
+
+Sobre a Psicóloga
+
+A Terapia / Psicanálise
+
+Atendimento Online & Presencial
+
+Agendar Consulta / Contato
+
+Design & Funcionalidades
+Inspirações
+
+Design sóbrio, elegante, minimalista e altamente acolhedor (alinhado com a identidade refinada do perfil @psilucernapalhano).
+
+Referência Visual: Perfil @psilucernapalhano (Uso de iluminação suave, tons quentes e terrosos, elementos clássicos e contemporâneos, transmitindo serenidade e maturidade).
+
+Estilo Geral: Visual leve, limpo e atemporal, priorizando uma leitura agradável e um tom de voz empático e respeitoso.
+
+Há alguma funcionalidade específica que você deseja no site?
+
+Botão flutuante do WhatsApp em todas as páginas para facilitar o agendamento direto.
+
+Chamadas para Ação (CTAs) elegantes: "Agende sua Sessão", "Falar sobre Atendimento Online".
+
+Seção de Perguntas Frequentes (FAQ interativo) sanando dúvidas sobre a duração das sessões, prazos, reembolso por convênio e funcionamento da terapia online.
+
+
+Fotos e material visuais que serão usados
+
+Fotografias profissionais em alta resolução da psicóloga, registros do consultório e o logotipo em vetor/tipografia autoral (.PNG/.AI).
+
+Contato & Redes Sociais
+Telefones para contato: (84) 90000-0000 (Ajustar conforme o WhatsApp oficial)
+
+WhatsApp para contato: (84) 90000-0000
+
+E-mail para contato: contato@lucernapalhano.com.br
+
+Links das redes sociais:
+
+Instagram: @psilucernapalhano
+
+SEO & Infraestrutura
+Se você fosse procurar sua empresa no Google, quais palavras usaria?
+
+Psicóloga e psicanalista perto de mim; Lucerna Palhano psicóloga; Psicoterapia online ansiedade e depressão; Atendimento psicanalítico para adultos; Consulta psicológica particular.
+
+Você registrou um nome de domínio para seu site?
+
+Recomendado registrar lucernapalhano.com.br ou psilucernapalhano.com.br.
+
+Você tem um servidor de hospedagem?
+
+Pode ser configurado na Hostinger ou Vercel.
+
+Seu site deve seguir algum padrão de identidade visual?
+
+Sim! Tons de Nude, Terracota Suave, Bege, Areia, Café e Off-White. Cores terrosas e neutras que remetem a aconchego, firmeza, acolhimento e sofisticação.
+
+Informações Adicionais
+Existe alguma outra informação não listada aqui que você gostaria de nos informar?
+
+É fundamental adicionar no rodapé do site o número do Registro Profissional (CRP), o selo do E-Psi para atendimento online e o aviso obrigatório do CFP: "Este site não realiza atendimentos de urgência ou emergência. Em casos de crise, procure o hospital mais próximo ou ligue para o CVV (188)".
