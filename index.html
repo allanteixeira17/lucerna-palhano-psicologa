@@ -365,11 +365,56 @@
     .reveal-delay-4 { transition-delay: 0.4s; }
 
     /* ============================================================
+       TOP BANNER
+    ============================================================ */
+    .top-banner {
+      background: var(--cafe);
+      color: var(--creme);
+      font-size: 0.72rem;
+      font-weight: 400;
+      letter-spacing: 0.04em;
+      overflow: hidden;
+      white-space: nowrap;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1001;
+      height: 32px;
+      display: flex;
+      align-items: center;
+    }
+
+    .top-banner-track {
+      display: inline-flex;
+      animation: banner-scroll 25s linear infinite;
+    }
+
+    .top-banner-text {
+      padding: 0 3rem;
+    }
+
+    .top-banner-text a {
+      color: var(--areia);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .top-banner-text a:hover {
+      color: var(--creme);
+    }
+
+    @keyframes banner-scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+
+    /* ============================================================
        HEADER / NAV
     ============================================================ */
     #header {
       position: fixed;
-      top: 0;
+      top: 32px;
       left: 0;
       right: 0;
       z-index: 1000;
@@ -507,7 +552,7 @@
     }
 
     .hero-content {
-      padding: 5rem 4rem 4rem 0;
+      padding: 6rem 4rem 4rem 0;
       position: relative;
       z-index: 1;
     }
@@ -1679,7 +1724,7 @@
       }
 
       .hero-content {
-        padding: 2rem 1.2rem 3rem;
+        padding: 3rem 1.2rem 3rem;
       }
 
       .hero-img-frame { max-width: 320px; margin: 0 auto; }
@@ -1731,6 +1776,18 @@
   </style>
 </head>
 <body>
+
+  <!-- ============================================================
+       TOP BANNER — AVISO DE DEMONSTRAÇÃO
+  ============================================================ -->
+  <div class="top-banner" role="complementary" aria-label="Aviso">
+    <div class="top-banner-track">
+      <span class="top-banner-text">Esse site é uma demonstração, o conteúdo aqui não tem relação com o profissional destacado. Desenvolvido por <a href="https://alnsolucoesdigitais.com.br/" target="_blank" rel="noopener">ALN Soluções Digitais</a></span>
+      <span class="top-banner-text">Esse site é uma demonstração, o conteúdo aqui não tem relação com o profissional destacado. Desenvolvido por <a href="https://alnsolucoesdigitais.com.br/" target="_blank" rel="noopener">ALN Soluções Digitais</a></span>
+      <span class="top-banner-text">Esse site é uma demonstração, o conteúdo aqui não tem relação com o profissional destacado. Desenvolvido por <a href="https://alnsolucoesdigitais.com.br/" target="_blank" rel="noopener">ALN Soluções Digitais</a></span>
+      <span class="top-banner-text">Esse site é uma demonstração, o conteúdo aqui não tem relação com o profissional destacado. Desenvolvido por <a href="https://alnsolucoesdigitais.com.br/" target="_blank" rel="noopener">ALN Soluções Digitais</a></span>
+    </div>
+  </div>
 
   <!-- ============================================================
        HEADER / NAVEGAÇÃO
